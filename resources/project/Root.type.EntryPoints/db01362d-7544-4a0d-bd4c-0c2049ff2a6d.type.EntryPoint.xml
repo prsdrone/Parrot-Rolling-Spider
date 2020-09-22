@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="Models/DroneModel.slx" Name="DroneModel">
+    <Extension Value="19fe7b00-1cd6-42c4-9dd9-ff818305dec8" Name="StartUpPrev" />
+</Info>
